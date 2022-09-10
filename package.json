@@ -1,0 +1,26 @@
+{
+  "name": "random-str-message-cow",
+  "version": "1.0.0",
+  "description": "Random Strinh Messages In a Cow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFercho/random-str-message-cow.git"
+  },
+  "author": "Fernando Barón <fernando.baron.alfonso@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrFercho/random-str-message-cow/issues"
+  },
+  "homepage": "https://github.com/MrFercho/random-str-message-cow#readme",
+  "bin": {
+    "random-str-message-cow": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
