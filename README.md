@@ -1,2 +1,2 @@
 # random-str-message-cow
-Random Strinh Messages In a Cow
+Some Random String Messages In a Cow 
